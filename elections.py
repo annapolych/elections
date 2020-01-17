@@ -117,6 +117,7 @@ if __name__ == '__main__':
 	votes = []
 	output_insert_votes = []
 	
+	#The program needs the folowing functions to be called 
 	#The program needs the folowing functions to be run in that order
 
 	printing_the_example() # the function prints out a Hello message and gives the format 
